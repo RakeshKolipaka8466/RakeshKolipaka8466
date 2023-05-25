@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RakeshKolipaka8466
+- 👋 Hi, I’m @Rakesh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on Full stack web Developer
